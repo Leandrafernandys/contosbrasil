@@ -1,2 +1,2 @@
 # contosbrasil
-Contos de clarice lispector e Luis Fernando Verissimo
+Contos de Luis Fernando Veríssimo e Clarice Lispector
